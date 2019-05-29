@@ -1,3 +1,3 @@
-a=input()
-b=len(a)
-print(b)
+D=input()
+L=len(D)
+print(L)
