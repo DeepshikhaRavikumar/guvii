@@ -1,5 +1,5 @@
 x,y=input().split()
-num=int(x)
-exp=int(y)
-out=num**exp
+N=int(x)
+K=int(y)
+out=N**K
 print(out)
